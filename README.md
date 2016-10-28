@@ -1,5 +1,14 @@
-# KingdomCraft-Core v1.6
-Created by KingdomCraft Network 
+# 
+Project Continued By Neuro Binds. 
 
 # Update
-This is now Private, it has been moved and this will no longer be updated 
+- [ ] Remake.
+- [ ] ReArrange.
+- [ ] Ideas.
+- [ ] Commits.
+- [ ] Debug.
+- [ ] Fix.
+- [ ] Restart.
+
+# Credits
+Original Project by KimgdomCraft Network
